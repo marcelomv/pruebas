@@ -10,7 +10,7 @@
 <?php
 	$Name="Joaquin";
 	echo "Hola <b>$Name</b>, encantado de conocerte<br>";
-	echo "gracias por venir!!!!!!1"
+	echo "gracias por venir!!!!!!"
 
 ?>
 
